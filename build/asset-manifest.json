@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5f701208.css",
+    "main.js": "/static/js/main.a37875d8.js",
+    "static/media/avagirl3.png": "/static/media/avagirl3.632275b630ce30b7c032.png",
+    "static/media/avagirl.png": "/static/media/avagirl.bc5f6543b81ce71363a8.png",
+    "static/media/avagirl5.png": "/static/media/avagirl5.dfc4809746c60880933c.png",
+    "static/media/avamen.png": "/static/media/avamen.f51fb7b90b10d59f568e.png",
+    "index.html": "/index.html",
+    "main.5f701208.css.map": "/static/css/main.5f701208.css.map",
+    "main.a37875d8.js.map": "/static/js/main.a37875d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f701208.css",
+    "static/js/main.a37875d8.js"
+  ]
+}
